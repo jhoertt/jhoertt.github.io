@@ -1,6 +1,7 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+#markdown:         redcarpet
+markdown:         kramdown
+#highlighter:      pygments
 
 # Permalinks
 permalink:        pretty
@@ -24,3 +25,4 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/karloespiritu/blackdoc
+gems: [jekyll-paginate] 

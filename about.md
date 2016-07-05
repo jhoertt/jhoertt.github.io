@@ -4,15 +4,10 @@ title: About
 ---
 
 <p class="message">
-  Hi there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Hello! While the main purpose of this website is to provide more information about INLS 161, below is a little bit about me.
 </p>
 
-## About BlackDoc Theme
+## About Me
 
-Some relevant information about this project:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Theme based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme
-* Ideal for sites requiring master-detail layout such as documentation, cheatsheets, lyrics, notes, etc.
-* Need a beautiful color scheme for black background? Then you will love BlackDoc theme.
+My name is Jake Hoertt and I will be a junior here at UNC Chapel Hill in the fall. I am studying Mathematical Decision Sciences and minoring in information systems at SILS. I am from Huntersville, North Carolina, but was born in Columbus, Ohio. I like to follow the NBA, run, and read. I also have three younger brothers, a step-brother, and a step-sister. 
 
