@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is INLS 161?
+title: Pandoc Practice
 ---
 
 # Assignment 3
